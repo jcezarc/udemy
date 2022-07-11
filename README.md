@@ -1,2 +1,2 @@
 ### Como usar:
-> `python udemy.py <nome do curso que você quer>`
+> `python udemy.py` **_[nome do curso]_**
